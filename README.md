@@ -1,2 +1,2 @@
 # Udemy_Java
-Java Projects from Udemy Course
+Java Projects from Udemy Course by Tim Bachalka
